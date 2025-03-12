@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ComponentePropio"},{"l":"Controlador"},{"l":"DAO"},{"l":"DTO"},{"l":"MODEL"},{"l":"SERVICE"},{"l":"Vista"}];updateSearchResults();

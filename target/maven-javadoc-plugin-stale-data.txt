@@ -1,0 +1,54 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/yosoy/.m2/repository/mysql/mysql-connector-java/8.0.28/mysql-connector-java-8.0.28.jar;C:/Users/yosoy/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/yosoy/Documents/NetBeansProjects/DI_ProyectoMVC/src/main/java;C:/Users/yosoy/Documents/NetBeansProjects/DI_ProyectoMVC/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/yosoy/Documents/NetBeansProjects/DI_ProyectoMVC/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'DI_ProyectoMVC 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'DI_ProyectoMVC 1.0-SNAPSHOT API'
+ComponentePropio
+Controlador
+DAO
+DTO
+MODEL
+SERVICE
+Vista
+C:\Users\yosoy\.m2\repository\mysql\mysql-connector-java\8.0.28\mysql-connector-java-8.0.28.jar = 1729851604414
+C:\Users\yosoy\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar = 1729851604846
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\src\main\java = 1741626810488
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\generated-sources\annotations = 1741626820750
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\allclasses-index.html = 1741626829319
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\allpackages-index.html = 1741626829325
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\element-list = 1741626828707
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\help-doc.html = 1741626829419
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\index-all.html = 1741626829397
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\index.html = 1741626829243
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\member-search-index.js = 1741626829337
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\module-search-index.js = 1741626829328
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\overview-summary.html = 1741626829407
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\overview-tree.html = 1741626829227
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\package-search-index.js = 1741626829331
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\search.html = 1741626829402
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\serialized-form.html = 1741626828914
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\tag-search-index.js = 1741626829339
+C:\Users\yosoy\Documents\NetBeansProjects\DI_ProyectoMVC\target\reports\apidocs\type-search-index.js = 1741626829334
