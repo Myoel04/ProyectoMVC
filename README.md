@@ -1,10 +1,10 @@
------------------Gestión de Coches y Usuarios---------------
+#-----------------Gestión de Coches y Usuarios---------------
 
----Descripción---
+##---Descripción---
 
 Este proyecto es una aplicación MVC en Java para la gestión de coches y sus usuarios. Permite a los usuarios registrar, actualizar, eliminar y visualizar información de coches, así como gestionar datos de los usuarios de cada vehículo.
 
----Características---
+##---Características---
 
   
   Registro de Coches: Añade nuevos coches al sistema.
@@ -17,7 +17,7 @@ Este proyecto es una aplicación MVC en Java para la gestión de coches y sus us
   
   Gestión de Usuarios: Permite añadir y gestionar usuarios asociados a cada coche.
 
----Tecnologías Utilizadas---
+##---Tecnologías Utilizadas---
   
   Java
   
@@ -25,7 +25,7 @@ Este proyecto es una aplicación MVC en Java para la gestión de coches y sus us
   
   XAMPP
 
----Instalación---
+##---Instalación---
 
   1- Clonar el repositorio:
 git clone https://github.com/tu-usuario/gestion-coches-usuarios.git
