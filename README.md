@@ -1,41 +1,37 @@
------------------Gestión de Coches y Usuarios---------------
+# Gestión de Coches y Usuarios
 
----Descripción---
+Este repositorio alberga una aplicación MVC en Java diseñada para la gestión integral de coches y sus usuarios, facilitando operaciones como el registro, actualización, eliminación y visualización de información vehicular, así como la administración de los datos de los usuarios asociados a cada vehículo.
 
-Este proyecto es una aplicación MVC en Java para la gestión de coches y sus usuarios. Permite a los usuarios registrar, actualizar, eliminar y visualizar información de coches, así como gestionar datos de los usuarios de cada vehículo.
+## Descripción
 
----Características---
+La aplicación permite a los usuarios gestionar eficientemente toda la información relacionada con coches y sus respectivos usuarios, ofreciendo un interfaz intuitivo y robusto para operaciones diarias en un entorno empresarial o personal.
 
-  
-  Registro de Coches: Añade nuevos coches al sistema.
-  
-  Edición de Coches: Actualiza la información de los coches existentes.
-  
-  Eliminación de Coches: Elimina coches del sistema.
- 
-  Listado de Coches: Muestra todos los coches registrados.
-  
-  Gestión de Usuarios: Permite añadir y gestionar usuarios asozciados a cada coche.
+## Características
 
----Tecnologías Utilizadas---
-  
-  Java
-  
-  MySQL (para la gestión de la base de datos)
-  
-  XAMPP
+- **Registro de Coches:** Añade nuevos coches al sistema.
+- **Edición de Coches:** Actualiza la información de los coches existentes.
+- **Eliminación de Coches:** Permite eliminar coches del sistema.
+- **Listado de Coches:** Visualiza todos los coches registrados en el sistema.
+- **Gestión de Usuarios:** Administra los usuarios asociados a cada coche.
 
----Instalación---
+## Tecnologías Utilizadas
 
-  1- Clonar el repositorio:
+- **Java:** Lenguaje de programación usado para desarrollar la lógica de la aplicación.
+- **MySQL:** Sistema de gestión de bases de datos para almacenar toda la información relacionada con los coches y usuarios.
+- **XAMPP:** Paquete que incluye el servidor MySQL y Apache, utilizado para el entorno de desarrollo local.
+
+## Instalación
+
+1. Clonar el repositorio:
 git clone https://github.com/tu-usuario/gestion-coches-usuarios.git
+2. Importar el proyecto en NetBeans.
+3. Añadir el `jdbc-driver.jar` a las librerías del proyecto en NetBeans.
+4. Instalar XAMPP y asegurarse de que los servicios de Apache y MySQL estén funcionando correctamente.
 
-  2- Importar el proyecto en NetBeans.
-  
-  3-Añadir el jdbc-driver.jar a las librerías del proyecto.
-  
-  4-Instalar Xampp.
+## Uso
 
----Uso---
+Para ejecutar la aplicación:
+1. Inicia los servicios de Apache y MySQL en XAMPP.
+2. Accede a `http://localhost:8080/proyectomvc` desde tu navegador para empezar a utilizar la aplicación.
 
-  Para ejecutar la aplicación, inicia el servidor Apache y Xampp y accede a http://localhost:8080/proyectomvc.
+
